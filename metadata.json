@@ -1,0 +1,6 @@
+{
+  "name": "Structured Descriptive Data Flow - Enterprise DFD Engine",
+  "description": "Interactive Structured Descriptive Data Flow (DFD) Studio for Enterprise 5-Layer Architecture Taxonomy with local LLM integration and @xyflow/react canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

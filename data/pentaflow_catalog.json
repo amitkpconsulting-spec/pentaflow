@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "2.1.0",
+  "application": "PentaFlow - Enterprise Structured Data Flow & DQ DAMA Studio",
+  "storageEngine": "local-json-and-browser-localstorage",
+  "browserStorageKey": "enterprise_dfd_custom_flow_templates",
+  "initializedAt": "2026-10-17T17:58:37.963Z",
+  "defaultEngine": "airgapped-deterministic",
+  "presets": [
+    "fin-cross-border-settlement",
+    "tx-credit-card-payment",
+    "retail-customer-onboarding",
+    "kyc-aml-identity-verification",
+    "hipaa-clinical-telemetry"
+  ],
+  "customFlows": []
+}
